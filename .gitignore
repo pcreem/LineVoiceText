@@ -1,5 +1,6 @@
 .env
 output.wav
+input.m4a
 /node_modules
 ngrok.exe
 ffmpeg.exe
