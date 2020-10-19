@@ -1,0 +1,5 @@
+.env
+output.wav
+/node_modules
+ngrok.exe
+ffmpeg.exe
